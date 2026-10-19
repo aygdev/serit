@@ -4,6 +4,8 @@ A macOS menu bar app for Bluetooth LED strips that use the **duoCo StripX** app 
 
 [Türkçe](#türkçe)
 
+![Şerit](docs/screenshot.png)
+
 I didn't want to pick up my phone every time I changed the color of the strip on my desk, so I figured out the protocol and wrote this.
 
 The UI is in Turkish (*şerit* means strip).
